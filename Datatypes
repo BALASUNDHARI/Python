@@ -1,0 +1,9 @@
+Types of Modes in python
+  Interactive mode: used when an user wants to run one single line or one block of code, it cant be saved.
+  Script mode: we write our code in a text file then save it with a . py extension.
+Datatypes
+  Character: A single letter
+  String: A set of characters
+  Integer: Whole numbers
+  Float: Numbers with decimal points
+  Boolean: Represents one of the two values i.e. True or False
